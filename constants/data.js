@@ -72,7 +72,7 @@ const userData = {
       company: "Université Paris-Dauphine",
       year: "2022 - 2023",
       
-      desc: "Developed a marketplace for tailwind web components (React, HTML and Angular) and templates.",
+      desc: "Master program in Data Science: Tailored for math graduates, this intensive training focuses on statistical learning with applications in digital economics, sciences, and humanities. The curriculum encompasses theoretical foundations, statistical methods, and essential programming skills (Python, HADOOP, R, MATLAB, Julia). Graduates emerge proficient in data manipulation and adept at applying machine learning techniques across diverse domains. Offered by Université Paris Dauphine-PSL, affiliated with the globally renowned PSL University. ",
     },
     {
       title: "Data Scientist",
